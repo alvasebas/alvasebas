@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hello 👋
 
-<!--
-**alvasebas/alvasebas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Sebastian, I'm from Argentina living in Denmark.
 
-Here are some ideas to get you started:
+* Currently working as a Staff DevOps specialist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* Using Kubernetes in Production since 2019
+* Google Cloud Platform, AWS, Docker and all the cloud stuff
+* Critical thinking, decision-making, and problem-solving skills
+* Ansible, Bash, Terraform coding and more
+* Analytics & monitoring solutions
+* Network security improvements
